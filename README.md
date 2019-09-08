@@ -12,7 +12,7 @@ The Pull Request size is calculated using the following formula:
 Size = Max(Added_Lines, Removed_Line)
 ```
 
-If `Size > 300` the Pull Request may be closed as "Too big" without any further discussion. If the limitation is not enough see "Continuous Decomposition" section.
+If `Size > 300` the Pull Request may be closed as "Too big" without any further discussion. If the limitation is not enough see [Continuous Decomposition](#3-continuous-decomposition) section.
 
 ### 3. Continuous Decomposition
 
