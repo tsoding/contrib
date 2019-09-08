@@ -18,7 +18,7 @@ If `Size > 300` the Pull Request may be closed as "Too big" without any further 
 
 As a Contributor, when you prepare a PR:
 
-- make as many changes as you can according to the PR size limitation,
+- make as many changes as you can according to the [PR size limitation](#2-pull-request-size-limitation),
 - make sure that the code is compilable and the application is usable,
 - create TODOs right in the code for the unfinished work,
 - format your TODOs according to the [Snitch TODO format][snitch-todo-format]
