@@ -33,5 +33,9 @@ Issues with vague descriptions like "Application does not work", "I don't unders
 
 The Policy is not final and constantly changes based on the precedents during development. To stay updated on the Policy changes [Start Watching](https://help.github.com/en/articles/watching-and-unwatching-repositories#watching-a-single-repository) this repo.
 
+# 6. Spam
+
+Continuous spamming with unrelated Issues, Pull Requests and Comments may result in blocking from contribution to projects in Tsoding GitHub organization.
+
 [snitch-todo-format]: https://github.com/tsoding/snitch#unreported-todo
 [tsoding-github]: https://github.com/tsoding
