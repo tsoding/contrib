@@ -1,8 +1,8 @@
 This Contribution Policy is applied to all projects within the [Tsoding Github Organization][tsoding-github]
 
-# 1. Neglected Pull Requests
+# 7. Paragraphs Numbering
 
-If the Reviewer's requests are not addressed by the Submitter within 2 weeks the Pull Request may be deemed neglected and closed without any further discussion.
+The paragraphs are out of order and some numbers are missing. This is intentional to preserve old links backward compatible with the current version of the README.
 
 # 2. Pull Request Size Limitation
 
