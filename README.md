@@ -27,7 +27,7 @@ As a Contributor, when you prepare a PR:
 
 # 4. Issue Detalization
 
-Issues with vague descriptions like "Application does not work", "I don't understand anything", etc, will be closed as "To vague" without any further discussion. Provide as many details as possible.
+Issues with vague descriptions like "Application does not work", "I don't understand anything", etc, will be closed as "Too vague" without any further discussion. Provide as many details as possible.
 
 # 5. Policy Changes
 
