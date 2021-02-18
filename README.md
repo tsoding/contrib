@@ -4,6 +4,10 @@ This Contribution Policy is applied to all projects within the [Tsoding Github O
 
 The paragraphs are out of order and some numbers are missing. This is intentional to preserve old links backward compatible with the current version of the README.
 
+# 8. Pull Request Branch
+
+Pull Requests are only accepted to `main`/`master` branches. Pull Requests to any other branches are automatically rejected.
+
 # 2. Pull Request Size Limitation
 
 The Pull Request size is calculated using the following formula:
